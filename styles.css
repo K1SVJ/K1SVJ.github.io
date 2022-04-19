@@ -1,0 +1,34 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 5%;
+}
+.img1{
+    display: block;
+    margin: 30px auto;
+}
+.News_Date{
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+}
+.top_content{
+    text-align: center;    
+}
+.blog_text{
+    text-align: center; 
+    width: clamp(500px, 80%, 700px);
+}
+.nav_center{
+    display: block;        
+}
+.nav_center_content{
+    margin-right: 30px;   
+}
+.subtitle{
+    text-align: left;
+}
+
+* {
+    background-color: azure; 
+}
